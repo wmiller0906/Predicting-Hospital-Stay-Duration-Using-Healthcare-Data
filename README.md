@@ -1,5 +1,7 @@
 # Hospital Length of Stay Prediction
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 This project builds and evaluates linear regression models to predict hospital patient Length of Stay (LoS) using synthetic healthcare data provided by Microsoft. Starting with univariate and multivariate linear regression, it explores the effects of feature selection and interaction terms. Finally, it compares the performance of linear models with a Random Forest Regressor.
 
 ---
